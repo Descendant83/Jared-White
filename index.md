@@ -1,4 +1,4 @@
-<!doctype html public>
+<!DOCTYPE html>
 <html>
   <head>
     <title> Jared White | User Experience Researcher and Designer</title>
